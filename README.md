@@ -1,5 +1,5 @@
 # Student Intervention System
-This project is a binary classification problem. I have used three datascience models here:
+This project is a binary classification problem. I have used three machine learning models here:
 1. Logistic Regression
 2. KNeighbors Classifier (K=20)
 3. Naive Bayes  
